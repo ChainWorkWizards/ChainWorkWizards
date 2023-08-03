@@ -15,6 +15,21 @@ We are a dynamic duo of freelance developers passionate about Full-stack Blockch
 - Cryptocurrency integration and payment solutions
 - Decentralized application (DApp) design and implementation
 
+<!-- Technologies -->
+
+## 🛠️ Technologies and Tools
+
+Here's a glimpse of the technologies and tools we use in our projects:
+
+- **Blockchain Platforms:** Ethereum, Binance Smart Chain, Solana
+- **Smart Contracts:** Solidity
+- **Web3 Libraries:** Web3.js, ethers.js
+- **Frontend:** React, NextJs
+- **Backend:** Node.js, Express
+- **Database:** MongoDB
+- **Version Control:** Git, GitHub
+- **Testing:** Truffle, Hardhat, Jest
+
 <!-- Projects Showcase -->
 
 ## 🛠️ Projects Showcase
