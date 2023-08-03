@@ -1,12 +1,12 @@
 <!-- Introduction -->
 
-# 👋 Welcome to **@ChainWorkWizards**
+# 👋 Welcome to <span style="color:green">**@ChainWorkWizards**</span>
 
-We are a dynamic duo of freelance developers passionate about Full-stack Blockchain Development. With a strong background & 2+ years of experience in both blockchain technology and full-stack development, we are dedicated to crafting innovative and secure solutions for the decentralized world. Our combined expertise enables us to create end-to-end blockchain applications that drive real-world impact.
+We are a dynamic duo of freelance developers passionate about **Full-stack Blockchain Development**. With a strong background & 2+ years of experience in both blockchain technology and full-stack development, we are dedicated to crafting innovative and secure solutions for the decentralized world. Our combined expertise enables us to create end-to-end blockchain applications that drive real-world impact.
 
 <!-- Expertise -->
 
-## 💼 Expertise
+## 💼 <span style="color:green">Expertise</span>
 
 - Smart contract development
 - Full-stack blockchain development
@@ -17,7 +17,7 @@ We are a dynamic duo of freelance developers passionate about Full-stack Blockch
 
 <!-- Technologies -->
 
-## 🛠️ Technologies and Tools
+## 🛠️ <span style="color:green">Technologies and Tools</span>
 
 Here's a glimpse of the technologies and tools we use in our projects:
 
@@ -32,7 +32,7 @@ Here's a glimpse of the technologies and tools we use in our projects:
 
 <!-- Projects Showcase -->
 
-## 🛠️ Projects Showcase
+## 🛠️ <span style="color:green">Projects Showcase</span>
 
 ### **CoinMingle** (DeFi) Platform
 
@@ -43,7 +43,7 @@ A DeFi platform that allows users to add/remove liquidity, trade cryptocurrencie
 
 <!-- Team Members -->
 
-## 🚀 Team Members
+## 🚀 <span style="color:green">Team Members</span>
 
 - **Aryan Saini** - Full-stack blockchain Developer
   - GitHub: [@007aryansaini](https://github.com/007aryansaini)
@@ -57,7 +57,7 @@ A DeFi platform that allows users to add/remove liquidity, trade cryptocurrencie
 
 <!-- Connect with Us -->
 
-## 📫 Connect with Us
+## 📫 <span style="color:green">Connect with Us</span>
 
 We're excited to collaborate, share insights, and contribute to the blockchain community. Feel free to reach out for discussions, partnership opportunities, or inquiries about our projects.
 
